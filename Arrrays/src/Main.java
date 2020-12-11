@@ -1,7 +1,7 @@
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+//Source = Mustafa Murat COŞKUN / UDEMY referans alınarak geliştirilmiştir..
 
 public class Main {
     public static int [] arrayDoldur(int sayı){
